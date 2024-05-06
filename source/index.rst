@@ -13,6 +13,7 @@ Sprawozdanie
 
    rodzialy/rozdzial1
    rodzialy/rozdzial2
+   rodzialy/rozdzial3
 
 
 .. Indices and tables
