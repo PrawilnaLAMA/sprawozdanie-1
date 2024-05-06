@@ -28,7 +28,7 @@ Mechanizmy zabezpieczania baz danych obejmują kontrolę dostępu do danych popr
 
     """
 
-.. Indices and tables
+.. :Indices and tables
 ==================
 
 .. * :ref:`genindex`
