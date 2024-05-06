@@ -12,7 +12,7 @@ Bezpieczeństwo baz danych
    :caption: Spis treści:
 
 """
-'' Bezpieczeństwo baz danych to kompleksowy obszar, który obejmuje wiele aspektów, mających na celu ochronę danych przed nieuprawnionym dostępem, modyfikacją lub zniszczeniem. Integralność, poufność, dostępność, spójność, rozliczalność, autentyczność, niezaprzeczalność i niezawodność są kluczowymi elementami zapewnienia bezpieczeństwa danych.
+''  Bezpieczeństwo baz danych to kompleksowy obszar, który obejmuje wiele aspektów, mających na celu ochronę danych przed nieuprawnionym dostępem, modyfikacją lub zniszczeniem. Integralność, poufność, dostępność, spójność, rozliczalność, autentyczność, niezaprzeczalność i niezawodność są kluczowymi elementami zapewnienia bezpieczeństwa danych.
 
 Integralność danych zapewnia, że dane nie ulegają nieautoryzowanym modyfikacjom, a dane odbierane przez adresata są zgodne z danymi autora. Mechanizmy kontroli danych, takie jak sumy kontrolne lub funkcje skrótu, są stosowane w celu zapewnienia integralności. Ponadto, ograniczenie dostępu osób niepowołanych poprzez zastosowanie fizycznych środków, takich jak serwerownie z ruterami i serwerami zamykanymi na klucz, wpływa również na integralność danych.
 
