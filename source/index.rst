@@ -11,11 +11,19 @@ Sprawozdanie
    :maxdepth: 2
    :caption: Spis treści:
 
-Dane przechowywane w bazach danych są narażone na różnorodne zagrożenia, z których najważniejsze to nielegalny odczyt danych przez nieuprawnionych użytkowników, niepoprawne operacje zmiany danych, które mogą wynikać zarówno z umyślnych działań nieuprawnionych użytkowników, jak i nieumyślnych pomyłek lub braku właściwej kontroli przy wielodostępie, a także zniszczenie danych w wyniku awarii sprzętu komputerowego.
+Bezpieczeństwo baz danych to kompleksowy obszar, który obejmuje wiele aspektów, mających na celu ochronę danych przed nieuprawnionym dostępem, modyfikacją lub zniszczeniem. Integralność, poufność, dostępność, spójność, rozliczalność, autentyczność, niezaprzeczalność i niezawodność są kluczowymi elementami zapewnienia bezpieczeństwa danych.
 
-Bezpieczeństwo baz danych polega na zapewnieniu ochrony przed nieuprawnionym, nieprawidłowym, przypadkowym lub umyślnym ujawnieniem, modyfikacją lub zniszczeniem danych. Aby to osiągnąć, konieczne jest spełnienie kilku wymagań związanych z właściwościami systemu bezpiecznego, takich jak poufność, integralność, dostępność, spójność, rozliczalność, autentyczność, niezaprzeczalność i niezawodność.
+Integralność danych zapewnia, że dane nie ulegają nieautoryzowanym modyfikacjom, a dane odbierane przez adresata są zgodne z danymi autora. Mechanizmy kontroli danych, takie jak sumy kontrolne lub funkcje skrótu, są stosowane w celu zapewnienia integralności. Ponadto, ograniczenie dostępu osób niepowołanych poprzez zastosowanie fizycznych środków, takich jak serwerownie z ruterami i serwerami zamykanymi na klucz, wpływa również na integralność danych.
 
-Poufność danych oznacza brak możliwości ujawnienia informacji osobom nieupoważnionym. Naruszenie poufności może nastąpić poprzez bezpośredni dostęp do informacji niejawnej lub w wyniku dostępu pośredniego, wynikającego z wnioskowania i analizy innych informacji. Zapewnienie poufności wymaga zastosowania procedur uwierzytelniania, tworzenia kont użytkowników z odpowiednimi uprawnieniami oraz ograniczania fizycznego dostępu do bazy danych lub szyfrowania danych. Poufność jest ściśle związana z ochroną prywatności i interesów osób lub instytucji oraz wymogami prawnymi.
+Poufność danych polega na zapobieganiu ujawnieniu informacji osobom nieupoważnionym. Wdrażane są procedury uwierzytelniania, a dostęp do danych jest ograniczany poprzez konta użytkowników oraz szyfrowanie danych.
+
+Dostępność danych oznacza możliwość korzystania z zasobów systemu przez osoby upoważnione w każdym momencie, co wymaga stosowania różnych środków ochrony, takich jak kryptografia, aby zapewnić szybkie lokalizowanie danych.
+
+Spójność danych w bazie jest istotna, aby dane zgromadzone w niej odzwierciedlały rzeczywistość. Warunki spójności zapewniają, że baza danych znajduje się w pewnym spójnym stanie w każdym momencie czasu, co zapewnia poprawność danych.
+
+Rozliczalność, autentyczność, niezaprzeczalność i niezawodność to kolejne aspekty bezpieczeństwa informacji, które zapewniają odpowiedzialność za działania użytkowników, sprawdzanie tożsamości podmiotów i zapobieganie zaprzeczaniu uczestnictwa w wymianie danych oraz gwarantują spójność danych i systemu oraz oczekiwane zachowanie i wyniki.
+
+Mechanizmy zabezpieczania baz danych obejmują kontrolę dostępu do danych poprzez nadawanie odpowiednich uprawnień użytkownikom oraz zastosowanie perspektyw dla ograniczenia dostępu do wybranych danych. Ponadto, ochrona systemu poprzez tworzenie kont użytkowników i nadawanie haseł, oraz utajnianie kodu niektórych obiektów baz danych i zastosowanie mechanizmów kryptograficznych, takich jak Transparent Data Encryption (TDE), są istotnymi elementami zapewnienia bezpieczeństwa danych.
 
 
 .. Indices and tables
