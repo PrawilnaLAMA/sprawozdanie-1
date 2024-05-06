@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 ========================================
-Sprawozdanie
+Bezpieczeństwo baz danych
 ========================================
 
 .. toctree::
