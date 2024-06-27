@@ -12,7 +12,7 @@ Bezpieczeństwo baz danych
    :caption: Spis treści:
 
     """
-    =============================================================
+=============================================================
 Zarządzanie Bezpieczeństwem w Systemach Baz Danych PostgreSQL
 =============================================================
 
@@ -496,7 +496,6 @@ Zabezpieczenie połączeń przez SSL/TLS oraz szyfrowanie danych są
 nieodzowne dla ochrony przed nieautoryzowanym dostępem i zapewnienia
 integralności danych. Dzięki tym mechanizmom PostgreSQL może być
 bezpiecznie używany nawet w najbardziej wymagających środowiskach.
-
     """
 
 .. :Indices and tables
