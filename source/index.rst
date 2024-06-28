@@ -3,7 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-========================================
 Bezpieczeństwo baz danych
 ========================================
 
@@ -13,7 +12,9 @@ Bezpieczeństwo baz danych
 
    rozdzialy/rozdzial1
    rozdzialy/rozdzial2
-
+   rozdzialy/rozdzial3
+   rozdzialy/rozdzial4
+   rozdzialy/rozdzial5
 
 .. :Indices and tables
 ==================
